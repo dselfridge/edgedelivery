@@ -1,3 +1,5 @@
 mountpoints:
-  /: https://author-p142280-e1457880.adobeaemcloud.com/bin/franklin.delivery/dselfridge/edgedelivery/main
+  /: "https://author-p142280-e1457880.adobeaemcloud.com/bin/franklin.delivery/dselfridge/edgedelivery/main"
+  type: "markup"
+  suffix: ".html"
   
